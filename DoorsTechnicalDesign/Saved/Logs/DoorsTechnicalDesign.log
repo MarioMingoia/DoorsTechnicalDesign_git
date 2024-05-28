@@ -3666,3 +3666,5 @@ Script Stack (0 frames) :
 [2024.05.28-23.29.50:788][485]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2024.05.28-23.29.50:794][485]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2024.05.28-23.30.03:892][485]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.28-23.30.33:239][485]LogExit: Editor shut down
+[2024.05.28-23.30.34:426][485]LogExit: Transaction tracking system shut down
